@@ -67,7 +67,7 @@
   <a href="https://www.facebook.com/tuperfil">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="logo de facebook" />
   </a>
-  <a href="https:https://paypal.me/SistemJavic16?country.x=EC&locale.x=es_XC">
+  <a href="https://paypal.me/SistemJavic16?country.x=EC&locale.x=es_XC">
     <img src="https://img.shields.io/static/v1?message=PayPal&logo=paypal&label=&color=00457C&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="logo de paypal" />
   </a>
   <a href="https://t.me/tuperfil">
