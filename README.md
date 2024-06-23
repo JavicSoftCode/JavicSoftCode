@@ -55,7 +55,7 @@
 ### Contáctame
 
 <div align="left">
-  <a href="mailto:tucorreo@gmail.com">
+  <a href="mailto:ing.javiersistem02ejqp@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="logo de gmail" />
   </a>
   <a href="https://www.linkedin.com/in/tuperfil">
@@ -67,7 +67,7 @@
   <a href="https://www.facebook.com/tuperfil">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="logo de facebook" />
   </a>
-  <a href="https://www.paypal.me/tuperfil">
+  <a href="https:https://paypal.me/SistemJavic16?country.x=EC&locale.x=es_XC">
     <img src="https://img.shields.io/static/v1?message=PayPal&logo=paypal&label=&color=00457C&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="logo de paypal" />
   </a>
   <a href="https://t.me/tuperfil">
