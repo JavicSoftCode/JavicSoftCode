@@ -1,6 +1,6 @@
 <h2 align="left">¡Hola! 👋 Mi nombre es Javier y soy estudiante, originario de Ecuador.</h2>
 
-<img align="right" height="350"  width="200" style="border-radius: 8px;" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXQ4dHQ2MDA4YWg3N281MGV0YXV0NDR3M3Z4Z3Zkb3duczFuazIwcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" />
+<img align="right" height="180" style="border-radius: 8;" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXQ4dHQ2MDA4YWg3N281MGV0YXV0NDR3M3Z4Z3Zkb3duczFuazIwcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 ### Acerca de mí
 
